@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ActivitiesAssignment</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Direccion de correo electronico</string>
+    <string name="prompt_password">Contraseña (opcional)</string>
+    <string name="action_sign_in">Iniciar sesion o registrarse</string>
+    <string name="action_sign_in_short">iniciar sesion</string>
+    <string name="action_sign_out">Salir</string>
+    <string name="error_invalid_email">La direccion de correo es invalida</string>
+    <string name="error_invalid_password">Contraseña demasiado corta</string>
+    <string name="error_incorrect_password">Contraseña incorrecta</string>
+    <string name="error_field_required">Este campo es obligatorio</string>
+    <string name="permission_rationale">"Se necesitan permisos de contacto para proporcionar terminaciones de correo electronico."
+    </string>
+
+    <string name="title_activity_news">"Lector de Reddit"
+    </string>
+
+
+</resources>
